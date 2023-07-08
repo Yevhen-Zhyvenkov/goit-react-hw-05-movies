@@ -10,7 +10,7 @@ const CastItem = ({ item }) => {
             src={
             item.profile_path !== null
               ? 'https://image.tmdb.org/t/p/w500' + item.profile_path
-              : 'http://dummyimage.com/150x250/c0c0c0'
+              : 'https://dummyimage.com/150x250/c0c0c0'
           }
           alt={item.name}
           width={200}
