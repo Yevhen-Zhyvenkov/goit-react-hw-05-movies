@@ -30,7 +30,7 @@ const MovieDetails = () => {
           src={
             searchResult.poster_path
               ? `https://image.tmdb.org/t/p/w500${searchResult.poster_path}`
-              : 'http://dummyimage.com/150x200/c0c0c0'
+              : 'https://dummyimage.com/150x200/c0c0c0'
           }
           alt=""
         />
