@@ -1,0 +1,22 @@
+
+.container{
+    margin-top: 20px;
+display: flex;
+}
+.info{
+    margin-left: 10px;
+}
+.image{
+    width: 200px;
+    height: 350px;
+}
+.title{
+    margin: 0px 0px 20px 0px;
+}
+.back{
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 1px solid #111;
+    background-color: rgb(240, 174, 87);
+}
